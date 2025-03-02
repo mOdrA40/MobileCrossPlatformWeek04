@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Anthonio Raphael",
+    "email": "anthonio.raphael@example.com",
+    "photo_url": "https://randomuser.me/api/portraits/men/1.jpg",
+    "phone": "+1 (212) 555-3890",
+    "location": "New York, NY"
+  },
+  {
+    "name": "Efri Ramadhan",
+    "email": "efri.ramadhan@example.com",
+    "photo_url": "https://randomuser.me/api/portraits/men/2.jpg",
+    "phone": "+1 (415) 678-2341",
+    "location": "San Francisco, CA"
+  },
+  {
+    "name": "Raphael Dikstra",
+    "email": "raphael.dikstra@example.com",
+    "photo_url": "https://randomuser.me/api/portraits/men/3.jpg",
+    "phone": "+1 (305) 789-4562",
+    "location": "Miami, FL"
+  },
+  {
+    "name": "Batara Hotdo",
+    "email": "batara.hotdo@example.com",
+    "photo_url": "https://randomuser.me/api/portraits/men/4.jpg",
+    "phone": "+1 (312) 456-7890",
+    "location": "Chicago, IL"
+  },
+  {
+    "name": "Gilbert Parluhutan",
+    "email": "gilbert.parluhutan@example.com",
+    "photo_url": "https://randomuser.me/api/portraits/men/5.jpg",
+    "phone": "+1 (206) 234-5678",
+    "location": "Seattle, WA"
+  },
+  {
+    "name": "Fikri Naufal",
+    "email": "fikri.naufal@example.com",
+    "photo_url": "https://randomuser.me/api/portraits/men/6.jpg",
+    "phone": "+1 (512) 345-6789",
+    "location": "Austin, TX"
+  },
+  {
+    "name": "Sarah Johnson",
+    "email": "sarah.johnson@example.com",
+    "photo_url": "https://randomuser.me/api/portraits/women/1.jpg",
+    "phone": "+1 (702) 567-8901",
+    "location": "Las Vegas, NV"
+  },
+  {
+    "name": "Linda Martinez",
+    "email": "linda.martinez@example.com",
+    "photo_url": "https://randomuser.me/api/portraits/women/2.jpg",
+    "phone": "+1 (617) 890-1234",
+    "location": "Boston, MA"
+  },
+  {
+    "name": "Michael Brown",
+    "email": "michael.brown@example.com",
+    "photo_url": "https://randomuser.me/api/portraits/men/7.jpg",
+    "phone": "+1 (404) 234-5678",
+    "location": "Atlanta, GA"
+  },
+  {
+    "name": "Robert Wilson",
+    "email": "robert.wilson@example.com",
+    "photo_url": "https://randomuser.me/api/portraits/men/8.jpg",
+    "phone": "+1 (303) 456-7890",
+    "location": "Denver, CO"
+  }
+]
